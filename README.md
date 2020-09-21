@@ -1,11 +1,11 @@
-# Url encoder for SVG
+# SVG to Base64 CSS background-image
 
 http://yoksel.github.io/url-encoder
 
 ## Usage
 
 1. Take `svg`.
-2. Encode it with [url-encoder](http://yoksel.github.io/url-encoder/).
+2. Encode it with [http://yoksel.github.io/url-encoder/](http://yoksel.github.io/url-encoder/).
 3. Use code as `background-image` or `border-image` or `mask`.
 4. Enjoy!
 
